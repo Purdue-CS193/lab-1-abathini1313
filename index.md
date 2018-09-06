@@ -3,3 +3,4 @@
 ## Favorite things about CS193
       - short lab time
       - teaches essential skills for cs
+      - only meets once a week!
