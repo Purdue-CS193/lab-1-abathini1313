@@ -1,4 +1,4 @@
-## Welcome to Akanksha's first CS193 lab
+## Akanksha's first CS193 lab
 
 ## Favorite things about CS193
       - short lab time
